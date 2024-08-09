@@ -3,7 +3,6 @@ Utilized Python scripts to execute data wrangling and merge data frames to deriv
 # Instacart_Basket_Analysis
 
 [Instacart_logo](https://github.com/user-attachments/assets/bfd0ea63-5bde-4d83-a175-28778f190e02)
-![Instacart_logo](https://github.com/[mctasci]/[Instacart_Basket_Analysis]/blob/[branch]/image.jpg?raw=true)
 
 
 ## Objective
