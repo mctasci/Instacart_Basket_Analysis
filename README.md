@@ -11,7 +11,8 @@ This project analyzes sales data from Instacart to derive insights into customer
 - **What's the distribution amoung users in regards to their brand loyalty?** 
 - **Are there differences in ordering habits based on a customer’s loyalty status?** 
 - **Are there differences in ordering habits based on a customer’s region?** 
-- **Are there particular times of the day when people spend the most money?** This includes:
+- **Are there particular times of the day when people spend the most money?** 
+This includes:
   - Brand loyalty.
   - Ordering habits based on loyalty status.
   - Regional differences in ordering habits.
