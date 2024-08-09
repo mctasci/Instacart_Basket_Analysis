@@ -2,7 +2,8 @@
 Utilized Python scripts to execute data wrangling and merge data frames to derive new variables. Conducted an initial data analysis and exploratory analysis of open-source datasets to generate insights and recommendations.
 # Instacart_Basket_Analysis
 
-![Instacart_logo](logo.png)
+[Instacart_logo](https://github.com/user-attachments/assets/bfd0ea63-5bde-4d83-a175-28778f190e02)
+
 
 ## Objective
 This project analyzes sales data from Instacart to derive insights into customer purchasing behaviors and sales patterns. The analysis aims to inform targeted marketing strategies, helping Instacart enhance segmentation and improve advertising efficacy.
